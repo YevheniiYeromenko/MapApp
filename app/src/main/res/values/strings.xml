@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MapApp</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="item_rv_places">%d. %s</string>
+    <string name="email_error">Email does not match format</string>
+    <string name="password_error">Password length less than 8</string>
+    <string name="authorization">Authorization</string>
+</resources>
